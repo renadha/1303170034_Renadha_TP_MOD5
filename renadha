@@ -1,0 +1,20 @@
+{
+	"Home":{ "name" : "Renadha Bagys Masyawa Dila", "NIM" : "1303170034", "Kelas" : "IT-41-01" }
+	},
+
+	{"About" : {"Saya anak ke-2 dari tiga bersaudara. Saya lahir di Solok, Sumatera Barat."}
+	},
+
+	{"Hobbies" : ["Tidur", "Makan", "Menonton", "Menyanyi"]
+	},
+
+	{"Skills" : ["Main gitar", "Pro main games", "Bernyanyi"]
+	},
+
+	{"Education" : ["SDN 15 Padangsidimpuan (2011)", "SMPN 1 Padangsidimpuan (2014)", "SMAN 2 Padangsidimpuan (2017)"]
+	},
+
+	{"Experience" : ["LCC 4 Pilar ","Paskibra", "Lomba Karate"]
+	}
+
+}
